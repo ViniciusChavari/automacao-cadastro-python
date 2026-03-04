@@ -1,19 +1,26 @@
 # Automação de Cadastro com Python
 
-Este projeto automatiza o processo de cadastro de produtos em um sistema web, utilizando 
-Python e PyAutoGUI para simular ações humanas como teclas e rolagem.
+Este projeto automatiza o processo de cadastro de produtos em um sistema, simulando ações humanas no computador, como navegação por teclado e rolagem de tela.
 
 ---
 
-## Tecnologias
-- Python
-- PyAutoGUI
+## Tecnologias Utilizadas
+
+- Python  
+- PyAutoGUI  
 
 ---
 
-## Requisitos
-Antes de executar, instale:
-```bash
-pip install pyautogui
+## Como Executar
 
+Clone o repositório:
+git clone https://github.com/ViniciusChavari/automacao-cadastro-python.git
 
+Acesse a pasta:
+cd automacao-cadastro-python
+
+Instale dependências (se ainda não tiver):
+```pip install pyautogui```
+
+Execute o script:
+python main.py
