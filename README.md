@@ -21,10 +21,9 @@ Projeto desenvolvido para automatizar processos repetitivos de cadastro em siste
 O objetivo deste projeto é praticar automação de processos e aumentar a produtividade em tarefas repetitivas.
 
 
-## Como executar
-https://github.com/ViniciusChavari/automacao-cadastro-python.git
 
 
 
 
 LinkedIn: https://www.linkedin.com/in/vinicius-chavari-69a657392/
+
