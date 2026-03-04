@@ -1,24 +1,20 @@
 # Automação de Cadastro com Python
 
-Projeto desenvolvido para automatizar processos repetitivos de cadastro em sistemas, simulando ações humanas como uso de teclado, navegação entre campos e rolagem de tela.
+Este projeto automatiza o processo de cadastro de produtos em um sistema web, utilizando 
+Python e PyAutoGUI para simular ações humanas como teclas e rolagem.
 
+---
 
-## Tecnologias Utilizadas
+## Tecnologias
 - Python
 - PyAutoGUI
-- Visual Studio Code
 
+---
 
-## Funcionalidades
-- Navegação automática entre campos
-- Uso de teclas direcionais (↑ ↓)
-- Rolagem de tela
-- Simulação de ações humanas
-- Redução de erros manuais
-
-
-## Objetivo
-O objetivo deste projeto é praticar automação de processos e aumentar a produtividade em tarefas repetitivas.
+## Requisitos
+Antes de executar, instale:
+```bash
+pip install pyautogui
 
 
 
@@ -26,4 +22,5 @@ O objetivo deste projeto é praticar automação de processos e aumentar a produ
 
 
 LinkedIn: https://www.linkedin.com/in/vinicius-chavari-69a657392/
+
 
