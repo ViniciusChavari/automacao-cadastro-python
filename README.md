@@ -17,10 +17,3 @@ Antes de executar, instale:
 pip install pyautogui
 
 
-
-
-
-
-LinkedIn: https://www.linkedin.com/in/vinicius-chavari-69a657392/
-
-
